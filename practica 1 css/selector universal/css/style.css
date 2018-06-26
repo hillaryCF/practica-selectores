@@ -1,0 +1,14 @@
+/*selector universal, utilza el arterisco y edita todo lo del docmento HTML */
+
+*{
+    color: blueviolet;
+}
+
+*{
+    font-size: 25px;
+}
+
+*{
+    font-style: monospace
+}
+

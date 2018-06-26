@@ -1,0 +1,23 @@
+/*selector de tipo o etiqueta*/
+
+h2, h3{
+    color: lightcoral;
+    
+    font-style: serif,large;
+}
+
+h1{
+    font-size: 12vh;
+    text-align: center;
+    margin: 0;
+    color: lightslategray;
+}
+
+h3{
+    font-size: 24px;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
